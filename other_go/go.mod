@@ -1,4 +1,4 @@
-module databricks.com/go
+module databricks.com/other_go
 
 go 1.14
 
